@@ -37,6 +37,7 @@
 ## 🌐 Connect with Me 🍬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nitishsinghslg](https://www.linkedin.com/in/sejal-kamble-567261291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sejalkamble._)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksejal630@gmail.com) 
 </div>
 
