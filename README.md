@@ -1,22 +1,17 @@
-#  💫Konnichiwa, I'm Sejal Kamble
+#  💫Konnichiwa
 <br>
-
-- 👋 Hi, I’m **_Sejal Kamble_**
-- 👀 I’m interested in Web development, Designing(Canva)  :) 
-- 🌱 I’m currently learning Java(DSA) + Web development through Apna College. 
-- 💞️ I’m looking to collaborate on open-source projects and eager to learn and explore new things. 
-- 📫 How to reach me ✉️: ksejal630@gmail.com  or [Linkedin](https://www.linkedin.com/in/sejal-kamble-567261291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact:I love to read novels sometimes making sketches .... So let's connect ;) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Sejal+Kamble+;-+An+aspiring+Software+Enginner+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE;-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" /></a>
 
 <!-- Stats -->
+## 📊 GitHub Overview
+
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Sejal-collection&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sejal-collection&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-collection&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=Sejal-collection&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-collection&theme=aura&hide_border=false&size="50%"&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sejal-collection&theme=dark&hide_border=false")
+   
 </div> <br/>
 
 ## 🏆 GitHub Trophies
@@ -32,7 +27,7 @@
 </div> 
 -->
 <!-- Social connections -->
-<div align="center">
+<div align="center" witdh="50%">
 
 ## 🌐 Connect with Me 🍬
 
