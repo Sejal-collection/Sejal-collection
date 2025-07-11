@@ -15,10 +15,13 @@
    
 </div> <br/>
 
+<div align="center">
+  
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
+</div>
+<br>
 <!-- Tech Stack
 <div align="center">
    
@@ -33,6 +36,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
+<br>
 <!-- Social connections -->
 <div align="center" witdh="50%">
   
@@ -42,7 +46,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sejalkamble._)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksejal630@gmail.com) 
 </div>
+<hr>
 
+### 💖 Support My Work:
+If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/sejalkamble)
+
+
+<hr>
 <!--Snake Game -->
 <div align="center">
   
