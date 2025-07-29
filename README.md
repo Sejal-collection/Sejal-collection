@@ -7,12 +7,17 @@
 <div align="center">
   
 ## 📊 GitHub Overview
-
-  ![](https://github-readme-stats.vercel.app/api?username=Sejal-collection&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--
+![](https://github-readme-stats.vercel.app/api?username=Sejal-collection&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sejal-collection&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-collection&theme=aura&hide_border=false&size="50%"&include_all_commits=false&count_private=false&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sejal-collection&theme=dark&hide_border=false")
-   
+-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sejal-collection&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sejal-collection&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sejal-collection&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sejal-collection&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sejal-collection&theme=aura&utcOffset=8)
 </div> <br/>
 
 <div align="center">
@@ -68,6 +73,12 @@ If you enjoy my work and would like to support my contributions to open source a
   
   [![](https://visitcount.itsvg.in/api?id=Sejal-collection&icon=100&logoColor=white)](https://visitcount.itsvg.in)
 </div>
+
+<p align="center">
+   <br><img src="https://komarev.com/ghpvc/?username=Sejal-collection&label=Profile%20views&color=0e75b6&style=flat" alt="Sejal-collection" />
+</p>
+
+        
 <!---
 Sejal-collection/Sejal-collection is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
