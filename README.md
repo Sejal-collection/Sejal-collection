@@ -73,7 +73,7 @@ If you enjoy my work and would like to support my contributions to open source a
   
   [![](https://visitcount.itsvg.in/api?id=Sejal-collection&icon=100&logoColor=white)](https://visitcount.itsvg.in)
 </div>
-
+<!--
 <p align="center">
    <br><img src="https://komarev.com/ghpvc/?username=Sejal-collection&label=Profile%20views&color=0e75b6&style=flat" alt="Sejal-collection" />
 </p>
