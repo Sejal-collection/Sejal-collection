@@ -19,7 +19,8 @@
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+<p align="center"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=aura" alt="Sejal-collection" /></a> </p>
+
 </div>
 <br>
 
