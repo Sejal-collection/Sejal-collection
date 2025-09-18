@@ -23,8 +23,8 @@
 <div align="center">
   
 ## 🏆 GitHub Trophies
-
-<p align="center"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=aura" alt="Sejal-collection" /></a> </p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=darkhub)
+</p>
 
 </div>
 <br>
