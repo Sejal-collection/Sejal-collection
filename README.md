@@ -61,7 +61,7 @@
 [![Holopin Badges](https://holopin.me/sejalkamble)](https://holopin.io/@sejalkamble)
 
 ---  
-##  🌐 Connect with Me 🍬
+##  🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sejal-kamble-567261291/" target="_blank">
