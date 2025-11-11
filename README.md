@@ -59,7 +59,7 @@
 
 [![Holopin Badges](https://holopin.me/sejalkamble)](https://holopin.io/@sejalkamble)
 
----  
+
 ##  🌐 Connect with Me
 
 <p align="center">
@@ -70,9 +70,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<hr>
+
 
 ### 💖 Support My Work:
+
 If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/sejalkamble)
@@ -85,11 +86,6 @@ If you enjoy my work and would like to support my contributions to open source a
   ![snake gif](https://github.com/Sejal-collection/Sejal-collection/blob/output/github-snake-dark.svg)
 </div>
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Sejal-collection&icon=100&logoColor=white)](https://visitcount.itsvg.in)
-</div>
 
 <!--
 <p align="center">
