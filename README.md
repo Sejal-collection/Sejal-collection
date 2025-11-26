@@ -6,7 +6,6 @@
 <!-- Stats -->
 <div align="center">
 
-
 ## 📊 GitHub Overview
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Sejal-collection&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -91,7 +90,6 @@ If you enjoy my work and would like to support my contributions to open source a
 <p align="center">
    <br><img src="https://komarev.com/ghpvc/?username=Sejal-collection&label=Profile%20views&color=0e75b6&style=flat" alt="Sejal-collection" />
 </p>
-
         
 <!---
 Sejal-collection/Sejal-collection is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
