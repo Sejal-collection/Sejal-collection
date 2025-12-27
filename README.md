@@ -19,14 +19,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sejal-collection&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sejal-collection&theme=aura&utcOffset=8)
 </div> <br/>
-
 <div align="center">
 
 <!--  
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Sejal-collection&theme=darkhub)
 </p>
-
 </div>
 -->
 
